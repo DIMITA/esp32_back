@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esp32_back", "esp32_back\esp32_back.csproj", "{023AF2E8-53B2-46FC-84DE-ABEF3F1F706C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023AF2E8-53B2-46FC-84DE-ABEF3F1F706C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023AF2E8-53B2-46FC-84DE-ABEF3F1F706C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023AF2E8-53B2-46FC-84DE-ABEF3F1F706C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023AF2E8-53B2-46FC-84DE-ABEF3F1F706C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE1BBD6-686B-497C-B565-64E80F368C9E}
+	EndGlobalSection
+EndGlobal
